@@ -1,0 +1,13 @@
+{
+    "name": "Page2Private",
+    "description": "Open Current Windows in a Private Windows",
+    "version": "1.0",
+    "manifest_version": 3,
+	"permissions": ["activeTab"],
+    "action": {
+        "default_popup": "main.html"
+    },
+    "icons": {
+        "48": "icons/files48x48.png"
+    }
+}
